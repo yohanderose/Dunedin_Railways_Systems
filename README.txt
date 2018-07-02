@@ -11,8 +11,7 @@ playlist https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iK
 if you feel a refresh is in order - I definitely needed one.
 
 Here is the repo we'll be working on https://github.com/yohanderose/Dunedin_Railways_Systems
-You both have branches (your names) already, which you can work on and push
-when done. 
+Fork yourselves a copy to work on and push when done. 
 
 Below I've outlined some tasks for completion and suggested who might
 work on them. Please feel free (you too Professors and Ben) to edit this README
